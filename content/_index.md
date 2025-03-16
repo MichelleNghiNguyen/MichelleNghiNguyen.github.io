@@ -1,4 +1,16 @@
-# Logistics Management Professional | International Economics  
+---
+layout: "page"
+---
+
+
+
+{{< typeit 
+  tag=h1
+  speed=10
+>}}
+✈️  Logistics Management ⛴️   🙋🏻‍♀️International Economics 📚 {{< /typeit >}}
+
+
 
 
 ## University of SGH Warsaw School of Economics & University of Economics And Laws
