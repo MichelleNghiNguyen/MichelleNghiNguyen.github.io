@@ -1,0 +1,33 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "School Experience"
+pre = "star"
+pageRef = "exp"
+identifier = "HPGcICkPnO"
+weight = 3
+
+[[main]]
+name = "Certificate"
+pre = "graduation-cap"
+pageRef = "cert"
+identifier = "uMqBCszkgF"
+weight = 2
+
+[[main]]
+name = "CV"
+pre = "substack"
+url = "https://drive.google.com/file/d/15iU6T4EaqriAQdKU7Jg8C4ESvIxCRNVk/view?usp=sharing"
+identifier = "wuQdUZIEpu"
+weight = 1
+
+[[main]]
+name = "Linkedin"
+pre = "linkedin"
+url = "https://www.linkedin.com/in/michelle-nghinguyen/"
+identifier = "HhBpBYfDsX"
+weight = 4
+
+[[footer]]
+none = "none"
